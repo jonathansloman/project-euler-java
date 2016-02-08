@@ -1,16 +1,20 @@
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
-public class Euler1 {
+public class Euler {
     static long startTime;
 
-    public Euler1() {
+    public Euler() {
     }
     
     
     public static void main(String[] args) throws Exception {
 	System.out.println("Started: ");
-	Euler1 e = new Euler1();
+	Euler e = new Euler();
 	startTime = System.currentTimeMillis();
 	e.go20();
 	System.out.println("Completed in: " + (System.currentTimeMillis() - startTime));
