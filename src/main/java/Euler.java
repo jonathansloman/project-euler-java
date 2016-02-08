@@ -16,7 +16,19 @@ public class Euler {
 	System.out.println("Started: ");
 	Euler e = new Euler();
 	startTime = System.currentTimeMillis();
-	e.go20();
+	//e.go1();
+	//e.go2();
+	//e.go3();
+	//e.go4();
+	//e.go5();
+	e.go6();
+//	e.go7();
+//	e.go8();
+//	e.go9();
+//	e.go10();
+//	e.go11();
+//	e.go12();
+//	e.go13();
 	System.out.println("Completed in: " + (System.currentTimeMillis() - startTime));
     }
     
