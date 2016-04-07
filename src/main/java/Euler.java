@@ -21,9 +21,10 @@ public class Euler {
 	//e.go3();
 	//e.go4();
 	//e.go5();
-	e.go6();
-//	e.go7();
-//	e.go8();
+	//e.go6();
+	//e.go7();
+	e.go8();
+	e.go464();
 //	e.go9();
 //	e.go10();
 //	e.go11();
